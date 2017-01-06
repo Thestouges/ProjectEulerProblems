@@ -68,6 +68,7 @@
     <ClCompile Include="problem2.cpp" />
     <ClCompile Include="problem3.cpp" />
     <ClCompile Include="problem4.cpp" />
+    <ClCompile Include="problem5.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -76,6 +77,7 @@
     <ClInclude Include="problem2.h" />
     <ClInclude Include="problem3.h" />
     <ClInclude Include="problem4.h" />
+    <ClInclude Include="problem5.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
