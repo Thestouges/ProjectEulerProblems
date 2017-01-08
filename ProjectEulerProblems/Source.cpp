@@ -40,6 +40,10 @@ void main(){
 			problem8 problem8;
 			break;
 				}
+		case(9):{
+			problem9 problem9;
+			break;
+				}
 		}
 	}
 	system("pause");
