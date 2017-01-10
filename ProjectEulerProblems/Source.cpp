@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include "List.h"
+#include "functions.h"
 
 void main(){
 	while(1){
@@ -42,6 +43,10 @@ void main(){
 				}
 		case(9):{
 			problem9 problem9;
+			break;
+				}
+		case(10):{
+			problem10 problem10;
 			break;
 				}
 		}

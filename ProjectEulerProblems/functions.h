@@ -1,0 +1,1 @@
+bool isPrime(__int64 num);

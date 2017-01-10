@@ -1,4 +1,5 @@
 #include "problem3.h"
+#include "functions.h"
 
 problem3::problem3(){
 	cout<<"Largest prime factor of input number"<<endl;
@@ -20,12 +21,4 @@ void problem3::largestprime(){
 			break;
 	}
 	cout<<"Largest prime factor: "<<counter<<endl;
-}
-
-bool problem3::isPrime(__int64 num){
-	for(__int64 i = 2; i < num; i++){
-		if(num%i == 0)
-			return false;
-	}
-	return true;
 }
