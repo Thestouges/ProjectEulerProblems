@@ -53,6 +53,10 @@ void main(){
 			problem11 problem11;
 			break;
 				}
+		case(12):{
+			problem12 problem12;
+			break;
+				}
 		}
 	}
 	system("pause");
