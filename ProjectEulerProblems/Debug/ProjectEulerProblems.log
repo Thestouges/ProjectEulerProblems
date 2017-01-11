@@ -1,8 +1,8 @@
-﻿Build started 1/10/2017 3:04:44 AM.
+﻿Build started 1/11/2017 3:17:03 AM.
      1>Project "C:\Users\SilentSky\documents\visual studio 2012\Projects\ProjectEulerProblems\ProjectEulerProblems\ProjectEulerProblems.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt functions.cpp problem1.cpp problem10.cpp problem11.cpp problem12.cpp problem2.cpp problem3.cpp problem4.cpp problem5.cpp problem6.cpp problem7.cpp problem8.cpp problem9.cpp
-         problem12.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt functions.cpp problem1.cpp problem10.cpp problem11.cpp problem13.cpp problem2.cpp problem3.cpp problem4.cpp problem5.cpp problem6.cpp problem7.cpp problem8.cpp problem9.cpp
+         problem13.cpp
          Generating Code...
          Skipping... (no relevant changes detected)
          problem9.cpp
@@ -23,6 +23,7 @@
          Debug\problem10.obj
          Debug\problem11.obj
          Debug\problem12.obj
+         Debug\problem13.obj
          Debug\problem2.obj
          Debug\problem3.obj
          Debug\problem4.obj
@@ -37,4 +38,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.79
+Time Elapsed 00:00:00.82
