@@ -5,9 +5,6 @@
 
 void main(){
 	while(1){
-		problem15 problem15;
-	}
-	while(1){
 		int input;
 		cout<<"Enter problem number: ";
 		cin>>input;
@@ -70,6 +67,10 @@ void main(){
 				}
 		case(15):{
 			problem15 problem15;
+			break;
+				}
+		case(16):{
+			problem16 problem16;
 			break;
 				}
 		}
